@@ -1,6 +1,6 @@
 # CodeChef
 
-You can learn about AES encryption in [here](https://www.coderstool.com/aes-encryption). I use CBC Mode Key Size 128.
+You can learn about AES encryption in [here](https://www.coderstool.com/aes-decryption). I use CBC Mode Key Size 128.
 
 ```
 Encoded Text:
